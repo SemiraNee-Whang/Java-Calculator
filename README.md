@@ -35,8 +35,7 @@ This calculator uses **JFrame**, **JPanel**, **JButtons**, and **ActionListener*
 ---
 
 ## 📁 Project Structure
-Semira_Projects/
- └── Calculator.java
+Calculator.java
 
  ---
  
