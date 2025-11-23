@@ -28,7 +28,8 @@ This calculator uses **JFrame**, **JPanel**, **JButtons**, and **ActionListener*
 
 ## 📸 Screenshot
 
-<img width="506" height="667" alt="image" src="https://github.com/user-attachments/assets/fe55b46a-7938-4773-b5f1-b0d34562a944" />
+<img width="506" height="667" alt="Screenshot 2025-11-23 025134" src="https://github.com/user-attachments/assets/aacb5881-3eb5-42b5-b28e-fe36903e870a" />
+
 
 
 ---
